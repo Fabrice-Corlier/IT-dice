@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav li{
+    margin: 25px;
+}
+
+*{
+    background-color: wheat;
+}
+
+#home{
+    text-align: center;
+    height: 200px;
+    padding-top:  10%;
+    
+}
+
+#home h2{
+margin: 30px;
+}
+
+#home h3{
+    margin-bottom: 50px;
+    }

@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/elfab/Desktop/back/timesup/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/elfab/Desktop/back/timesup","disabled":false,"__vagrantfile":true}}}
