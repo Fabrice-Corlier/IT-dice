@@ -25,3 +25,11 @@ margin: 30px;
 #home h3{
     margin-bottom: 50px;
     }
+
+input{
+    width: 10%;
+}
+.settings{
+    margin-left: 40%;
+    padding-top: 8%
+}
