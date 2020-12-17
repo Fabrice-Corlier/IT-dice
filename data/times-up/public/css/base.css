@@ -7,8 +7,9 @@
     margin: 25px;
 }
 
-*{
-    background-color: wheat;
+body{
+    background-color: grey;
+    background: linear-gradient(180deg, rgba(0,0,0,0.50) 0%, rgba(0,0,0,1) 90%);
 }
 
 #home{
@@ -16,9 +17,10 @@
     height: 200px;
     padding-top:  10%;
     
+    
 }
 
-#home h2{
+#home h1{
 margin: 30px;
 }
 
@@ -32,4 +34,50 @@ input{
 .settings{
     margin-left: 40%;
     padding-top: 8%
+}
+
+.head{
+    background-color:black;
+}
+
+.headie {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3) , rgba(0, 0, 0, 0.3)), url(../img/vignette-vignette-N-26042-48281-1-rotated.jpg);
+    display: flex;
+    height: 100px;
+    background-size: cover;
+    background-position:center ;
+    color: white;
+    }
+
+footer {
+    background-color: black;
+    display: flex;
+    margin-top: 30%;
+    padding-bottom: 5px;
+}
+
+#egg:hover {
+    color: orange;
+    background-color: rgb(247, 247, 247);
+    transition: all 0.3s ease;
+}
+
+label{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+#buton{
+    border: none;
 }

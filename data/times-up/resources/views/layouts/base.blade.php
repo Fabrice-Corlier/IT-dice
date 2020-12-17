@@ -7,13 +7,10 @@
     <title>@yield('title')</title>
 </head>
 <body>
-    <header>
-        <ul class="nav">
+    <header class="headie">
+          <ul class="nav">
             <li class="nav-item">
-              <a class="nav-link active" href="/home">Accueil</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link actvie" href="/credits" >Crédits</a>
+              <a class="nav-link active" style="color: white" href="/home">Accueil</a>
             </li>
           </ul>
     </header>

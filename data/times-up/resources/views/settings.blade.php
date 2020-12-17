@@ -28,6 +28,6 @@
         <input type="checkbox">
         <label class="form-check-label" for="exampleCheck1">dés -1 a chaques manches</label>
       </div>
-    <button type="submit" class="btn btn-primary">Lancer</button>
+    <button type="submit" class="btn btn-primary" id="buton" style="background: orange">Lancer</button>
 </form>
 @extends('layouts.footer')
